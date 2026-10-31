@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    width: 550px;
+    height: 208px;
+    background-color: dimgrey;
+}

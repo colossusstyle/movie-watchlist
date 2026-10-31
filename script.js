@@ -1,0 +1,1 @@
+const bodyMainEl = document.getElementById('body-main')
