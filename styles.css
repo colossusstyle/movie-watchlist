@@ -11,3 +11,14 @@ header {
     height: 208px;
     background-color: dimgrey;
 }
+
+
+/* movie section */
+
+.movie-return {
+    background-color: lightgray;
+}
+
+.movie-poster {
+    width: 100px;
+}
