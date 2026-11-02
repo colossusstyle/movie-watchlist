@@ -12,13 +12,36 @@ header {
     background-color: dimgrey;
 }
 
+.body-main {
+    width: 550px;
+}
 
 /* movie section */
+.returned-movies-div{
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
 
 .movie-return {
     background-color: lightgray;
+    outline: solid 1px black;
+    
+    width: 100%;
+}
+
+.movie-sub-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.movie-details {
+    display: flex;
+    flex-direction: column;
 }
 
 .movie-poster {
     width: 100px;
+    border-radius: 8px;
 }
